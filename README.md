@@ -1,6 +1,6 @@
 # Grid-5-equal-column-reverse-u
 It is a grid that has reverse you shape. 
-it has 5 equal column. and two ro at extrme sides, making a reverse u that you can use for your layout template.
+it has 5 equal column. and two row at extream sides, making a reverse u that you can use for your layout template.
 
 Hope it helped!
 
