@@ -4,7 +4,8 @@ it has 5 equal column. and two row at extream sides, making a reverse u that you
 
 Hope it helped!
 
-![image](https://user-images.githubusercontent.com/74825076/228224922-d0b033eb-3904-4159-a447-f1a78f7801d4.png)
+![image](https://user-images.githubusercontent.com/74825076/229294007-a365d0d8-7a0b-4a5f-80d8-60c3e5c393e7.png)
+
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
